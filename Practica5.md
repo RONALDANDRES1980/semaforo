@@ -19,7 +19,7 @@ negativo (cátodo) pasando por la resistencia.
 -	Cables de conexión. 
 
 ### **Montaje:**
-![imagen de montaje]( https://www.programoergosum.com/images/cursos/254-salidas-digitales-con-arduino/semaforo-peatones-esquema.png) 
+! [Imagen de Montaje] (diseño_practica_5.png)
 
 ### **Código para Arduino:**  
 
@@ -49,4 +49,8 @@ delay(200);
 delay(500);    
 }    
 **digitalWrite**(LedV,LOW);    
-}     
+}  
+
+
+###**Maqueta**
+! [Imagen de Montaje] (Maqueta_5.png)
