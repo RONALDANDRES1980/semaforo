@@ -24,8 +24,8 @@ Una **fotocelda o fotorresistor** es un dispositivo cuya resistencia varía de a
 define ldr A0   
 define Led1 11    
 define Led2 12    
-define Led3 13
-Int Luminicencia;
+define Led3 13      
+Int Luminicencia;      
 
 **void setup** () {   
 Serial.begin(9600);   
