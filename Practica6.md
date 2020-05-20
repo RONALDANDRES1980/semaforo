@@ -21,9 +21,9 @@ Una **fotocelda o fotorresistor** es un dispositivo cuya resistencia varía de a
 
 ### **Código para Arduino:**
 
-define ldr A0
-define Led1 11
-define Led2 12
+define ldr A0   
+define Led1 11    
+define Led2 12    
 define Led3 13
 Int Luminicencia;
 
