@@ -19,8 +19,7 @@ negativo (cátodo) pasando por la resistencia.
 -	Cables de conexión. 
 
 ### **Montaje:**
-! [Imagen de Montaje] (img/diseño_practica_5.png)
-
+! [Imagen  montaje] (img/diseño_practica_5.png)
 ### **Código para Arduino:**  
 
 define LedR 13  
@@ -52,4 +51,4 @@ delay(500);
 } 
 
 ###**Maqueta**     
-! [Imagen de Montaje] (img/Maqueta_5.png )
+! [Imagen  montaje] (img/maqueta_5.png)
