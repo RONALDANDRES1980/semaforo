@@ -19,7 +19,7 @@ negativo (cátodo) pasando por la resistencia.
 -	Cables de conexión. 
 
 ### **Montaje:**
-! [Imagen de Montaje] (diseño_practica_5.png)
+! [Imagen de Montaje] (img/diseño_practica_5.png)
 
 ### **Código para Arduino:**  
 
@@ -53,4 +53,4 @@ delay(500);
 
 
 ###**Maqueta**
-! [Imagen de Montaje] (Maqueta_5.png)
+! [Imagen de Montaje] (img/Maqueta_5.png)
