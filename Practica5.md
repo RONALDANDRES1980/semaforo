@@ -50,7 +50,5 @@ delay(500);
 }    
 **digitalWrite**(LedV,LOW);    
 }  
-
-
 ###**Maqueta**
 ! [Imagen de Montaje] (img/Maqueta_5.png )
