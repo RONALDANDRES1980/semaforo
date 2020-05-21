@@ -18,7 +18,8 @@ Programar el circuto para el cruce de dos semaforos.
 -	6 Resistencias de 330 ohms  
 -	1 Cable USB para ARDUINO </li>
 ### **Montaje:**
-![Imagen montaje]( https://1.bp.blogspot.com/-nzdMB_8vMDQ/Un_HnUAA4eI/AAAAAAAAAYo/x0i4i17_2AE/s1600/Semaforos.png)
+![Imagen montaje]( img/diseño  cruce N_practica_4.png)
+![Imagen montaje]( img/diseño  cruce P_practica_4.png)
 
 ### **Código para Arduino:**
 
@@ -66,4 +67,8 @@ define LR 6	        define LA 7	      define LV 8
   **digitalWrite** (LedA, LOW);     
   **digitalWrite** (LedV, LOW);    
   **digitalWrite** (LA, LOW);    
-  **digitalWrite** (LR, LOW); }    
+  **digitalWrite** (LR, LOW); }   
+  
+## **Maqueta**
+##**  ![Imagen montaje]
+##**  ![Imagen montaje]
