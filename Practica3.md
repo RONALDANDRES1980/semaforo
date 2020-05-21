@@ -24,7 +24,7 @@ Controlar la intensidad del brillo de un LED mediante un potenciómetro. Aprende
 -	Cables de conexión.
 
 ### **Montaje:**
-![Imagen montaje]( https://manualarduinos52.files.wordpress.com/2013/12/p3_bb1.png?w=625&h=470)
+![Imagen montaje](img/diseño_práctica_3.png)
 
 Montaje del circuito para controlar el brillo de un led con un potenciómetro.
 

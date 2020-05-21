@@ -1,4 +1,4 @@
-## **PRACTICA 5. SEMÁFORO DE PEATONES**  
+## <span style="color:blue; "> **PRACTICA 5: SEMÁFORO DE PEATONES** </span>
 
 ### **Objetivo:** 
 Construir un semáforo para peatones utilizando dos LEDs y un zumbador.   
@@ -19,7 +19,7 @@ negativo (cátodo) pasando por la resistencia.
 -	Cables de conexión. 
 
 ### **Montaje:**
-![imagen de montaje]( https://www.programoergosum.com/images/cursos/254-salidas-digitales-con-arduino/semaforo-peatones-esquema.png) 
+! [Imagen de Montaje] (img/diseño_practica_5.png)
 
 ### **Código para Arduino:**  
 
@@ -49,4 +49,6 @@ delay(200);
 delay(500);    
 }    
 **digitalWrite**(LedV,LOW);    
-}     
+}  
+###**Maqueta**
+! [Imagen de Montaje] (img/Maqueta_5.png )
