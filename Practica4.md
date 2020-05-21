@@ -1,4 +1,4 @@
-## <span style="color:blue; font-family:Times New Roman; ">  **PRACTICA 4: CRUCE DE SEMAFOROS**</spam>
+## <span style="color:blue;">  **PRACTICA 4: CRUCE DE SEMAFOROS**</span>
 
 ### **Objetivos:**
 Programar el circuto para el cruce de dos semaforos.
