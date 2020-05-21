@@ -70,5 +70,4 @@ define LR 6	        define LA 7	      define LV 8
   **digitalWrite** (LR, LOW); }   
   
 ## **Maqueta**
-##**  ![Imagen montaje]
-##**  ![Imagen montaje]
+##**  ![Imagen montaje](img/ Maqueta_practica_4.jpeg)
