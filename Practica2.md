@@ -1,4 +1,4 @@
-## <span style="color:blue; font-family:Times New Roman; ">  **PRACTICA 2: ENCENDER Y APAGAR UN LED CON UN PULSADOR**</spam>
+## <span style="color:blue; ">  **PRACTICA 2: ENCENDER Y APAGAR UN LED CON UN PULSADOR**</span>
 
 ### **Objetivos:**
 Encender y apagar un LED utilizando un botón pulsador que envié una señal que Arduino registre y decida si enciende o apaga el LED.
@@ -25,7 +25,7 @@ Encender y apagar un LED utilizando un botón pulsador que envié una señal que
 -	1 Resistencia de 10K
 
 ### **Montaje:**
-![Imagen montaje]( https://www.programoergosum.com/images/cursos/256-entradas-digitales-con-arduino/pulsador-simple-esquema.png)    
+![Imagen montaje](img/diseño_practica_2.png)   
 Montaje del circuito con el uso de botones para encender y apagar
 
 ### **Código para Arduino:**
