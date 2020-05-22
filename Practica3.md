@@ -46,7 +46,7 @@ int brillo;
 }    
 
 ### **Maqueta**
-![Imagen montaje](img/Diseño_maqueta_3.png)
+
 
 
 
