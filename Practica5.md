@@ -19,7 +19,9 @@ negativo (cátodo) pasando por la resistencia.
 -	Cables de conexión. 
 
 ### **Montaje:**
-! [Imagen montaje](img/diseño_practica_5.png )   
+
+![imagenmontaje](img/diseño_5.png)
+
 
 
 ### **Código para Arduino:**  
