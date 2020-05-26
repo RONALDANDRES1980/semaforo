@@ -20,7 +20,7 @@ negativo (cátodo) pasando por la resistencia.
 
 ### **Montaje:**
 
-![imagenmontaje](img/diseño_5.png)
+![imagenmontaje](img/diseño_practica_5.png)
 
 
 
