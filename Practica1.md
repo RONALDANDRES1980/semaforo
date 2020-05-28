@@ -13,6 +13,7 @@ Encender y apagar un LED utilizando un botón pulsador que envié una señal que
 8.	Lo siguiente es hacer la conexión de alimentación y tierra del Arduino, para eso vamos a la selección de alimentación de nuestro Arduino, sacamos un cable que vaya de 5v hasta la línea roja de nuestro Arduino, donde anteriormente se había conectado un cable que provenía del botón, eso es para la alimentación. 
 9.	Por último, sacamos un cable de cualquiera de las dos tierras que trae Arduino para que vaya a la tierra (la línea azul donde conectamos la resistencia del LED).
 
+
 ###**Materiales:**
 
 -	1 Tarjeta ARDUINO UNO 
