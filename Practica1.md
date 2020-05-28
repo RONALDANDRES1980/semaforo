@@ -11,9 +11,10 @@ Encender y apagar un LED utilizando un botón pulsador que envié una señal que
 6.	En el otro extremo del botón se conecta un cable que conecte a una línea horizontal de la Protoboard, en nuestro caso la roja. hh
 7.	Ahora se conectará un cable que vaya del pin 8 del Arduino a la Protoboard. 
 8.	Lo siguiente es hacer la conexión de alimentación y tierra del Arduino, para eso vamos a la selección de alimentación de nuestro Arduino, sacamos un cable que vaya de 5v hasta la línea roja de nuestro Arduino, donde anteriormente se había conectado un cable que provenía del botón, eso es para la alimentación. 
-9.	Por último, sacamos un cable de cualquiera de las dos tierras que trae Arduino para que vaya a la tierra (la línea azul donde conectamos la resistencia del LED). 
+9.	Por último, sacamos un cable de cualquiera de las dos tierras que trae Arduino para que vaya a la tierra (la línea azul donde conectamos la resistencia del LED).
 
-  ### **Materiales:** 
+###**Materiales:**
+
 -	1 Tarjeta ARDUINO UNO 
 -	1 Cable USB para ARDUINO 
 -	1 Tarjeta protoboard 
@@ -23,7 +24,8 @@ Encender y apagar un LED utilizando un botón pulsador que envié una señal que
 -	1 Resistencia de 220 ohms o 330 ohms 
 -	1 Resistencia de 10k ohms 
 
-  ### **Montaje:** 
+###** Montaje:**
+
 ![imagen montaje](img/diseño_practica_1.png)   
 Montaje del circuito encender y apagar un Led con Arduino. 
 
@@ -48,5 +50,6 @@ else {
   }    
 }    
 
-### **maqueta**
+### **Maqueta:**
+
 ![imagen montaje](img/Maqueta_1.png)
