@@ -1,4 +1,4 @@
-## <span style="color:blue; font-family:Times New Roman; "> **PRACTICA 3. CONTROLAR EL BRILLO DE UN LED CON UN POTENCIOMETRO** </span> 
+## <span style="color:blue;">**PRACTICA 3.CONTROLAR EL BRILLO DE UN LED CON UN POTENCIOMETRO**</span>
 
 ### **Objetivo:**
 Controlar la intensidad del brillo de un LED mediante un potenciómetro. Aprender a usar los pines analógicos de Arduino. Encender un LED y cambiarle su intensidad usando PWM, señales de modulación de ancho de pulsos.
@@ -24,7 +24,7 @@ Controlar la intensidad del brillo de un LED mediante un potenciómetro. Aprende
 -	Cables de conexión.
 
 ### **Montaje:**
-![Imagen montaje](img/diseño_práctica_3.png)
+![Imagen montaje](img/Diseño_practica_3.png)
 
 Montaje del circuito para controlar el brillo de un led con un potenciómetro.
 
@@ -44,4 +44,9 @@ int brillo;
   brillo = **analogRead** (pot) / 4;    
   **analogWrite** (led, brillo);    
 }    
+
+### **Maqueta**
+
+
+
 
