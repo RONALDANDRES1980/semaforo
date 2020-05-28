@@ -49,4 +49,4 @@ else {
 }    
 
 ### **maqueta**
-![imagen montaje](img/maqueta_1.png)
+![imagen montaje](img/Maqueta_1.png)
