@@ -16,10 +16,13 @@ Programar el circuto para el cruce de dos semaforos.
 -	2 Led Verde 5mm 
 -	1 Pulsador 
 -	6 Resistencias de 330 ohms  
--	1 Cable USB para ARDUINO </li>
+-	1 Cable USB para ARDUINO 
+
 ### **Montaje:**
-![Imagen montaje]( img/diseño  cruce N_practica_4.png)
-![Imagen montaje]( img/diseño  cruce P_practica_4.png)
+
+![imagen montaje](img/diseño cruce N_practica_4.png)
+
+
 
 ### **Código para Arduino:**
 
@@ -70,4 +73,5 @@ define LR 6	        define LA 7	      define LV 8
   **digitalWrite** (LR, LOW); }   
   
 ## **Maqueta**
-##**  ![Imagen montaje](img/ Maqueta_practica_4.jpeg)
+
+![imagen montaje](img/Maqueta_practica_4.jpeg)
