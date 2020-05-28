@@ -56,7 +56,6 @@ delay(500);
 
 ### **MAQUETA** 
 
-
-![imagenmontaje](img/Maqueta_5.png)
+![Imagenmontaje](img/Maqueta_5.png)
 
 
