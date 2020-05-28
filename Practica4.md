@@ -20,7 +20,7 @@ Programar el circuto para el cruce de dos semaforos.
 
 ### **Montaje:**
 
-![imagen montaje](img/diseño cruce N_practica_4.png)
+![imagen montaje](img/diseño_cruce_N_practica_4.png)
 
 
 
