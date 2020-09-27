@@ -1,10 +1,11 @@
 ## <span style="color:blue; "> **PRACTICA 5: SEMÁFORO DE PEATONES** </span>
 
 ### **Objetivo:** 
+
 Construir un semáforo para peatones utilizando dos LEDs y un zumbador.   
 
 ### **Descripción:** 
- 1. Se conecta el LED rojo al pin digital 13 y el LED de color verde al pin digital 12 de la placa de Arduino 
+1. Se conecta el LED rojo al pin digital 13 y el LED de color verde al pin digital 12 de la placa de Arduino 
 2. La patilla larga del LED debe ser conectada al voltaje positivo (ánodo) y la corta al voltaje
 negativo (cátodo) pasando por la resistencia. 
 3. El zumbador se conecta debidamente polarizado al pin digital 11.
@@ -21,8 +22,6 @@ negativo (cátodo) pasando por la resistencia.
 ### **Montaje:**
 
 ![imagenmontaje](img/diseño_practica_5.png)
-
-
 
 ### **Código para Arduino:**  
 
@@ -54,7 +53,7 @@ delay(500);
 **digitalWrite**(LedV,LOW);    
 } 
 
-### **MAQUETA** 
+### **Maqueta** 
 
 ![Imagenmontaje](img/Maqueta_5.png)
 
