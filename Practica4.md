@@ -1,6 +1,7 @@
-## <span style="color:blue; font-family:Times New Roman; ">  **PRACTICA 4: CRUCE DE SEMAFOROS**</spam>
+## <span style="color:blue;">  **PRACTICA 4: CRUCE DE SEMAFOROS**</span>
 
 ### **Objetivos:**
+
 Programar el circuto para el cruce de dos semaforos.
 
 ### **Descripción:**
@@ -16,9 +17,11 @@ Programar el circuto para el cruce de dos semaforos.
 -	2 Led Verde 5mm 
 -	1 Pulsador 
 -	6 Resistencias de 330 ohms  
--	1 Cable USB para ARDUINO </li>
+-	1 Cable USB para ARDUINO 
+
 ### **Montaje:**
-![Imagen montaje]( https://1.bp.blogspot.com/-nzdMB_8vMDQ/Un_HnUAA4eI/AAAAAAAAAYo/x0i4i17_2AE/s1600/Semaforos.png)
+
+![imagen montaje](img/diseño_cruce_N_practica_4.png)
 
 ### **Código para Arduino:**
 
@@ -66,4 +69,8 @@ define LR 6	        define LA 7	      define LV 8
   **digitalWrite** (LedA, LOW);     
   **digitalWrite** (LedV, LOW);    
   **digitalWrite** (LA, LOW);    
-  **digitalWrite** (LR, LOW); }    
+  **digitalWrite** (LR, LOW); }   
+  
+## **Maqueta**
+
+![imagen montaje](img/Maqueta_practica_4.jpeg)
