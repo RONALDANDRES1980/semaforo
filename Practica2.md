@@ -46,3 +46,8 @@ Estado=0;
 else {   
     **digitalWrite** (LedR, LOW); //apaga el Led  }   
 }    
+
+
+### **Maqueta:**
+
+![imagen montaje](img/Maqueta_1.png)
