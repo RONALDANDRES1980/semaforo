@@ -1,6 +1,7 @@
-## <span style="color:blue; font-family:Times New Roman; ">  **PRACTICA 6. SENSOR DE LUZ CON LDR** </span>
+## <span style="color:blue; font-family:Times New Roman; ">  **PRACTICA 6:SENSOR DE LUZ CON LDR** </span>
 
 ### **Objetivos:**
+
 Aprender a usar una fotocelda LDR como sensor de luz para modificar el brillo de un LED de acuerdo a la intensidad lumínica del entorno.
 
 Una **fotocelda o fotorresistor** es un dispositivo cuya resistencia varía de acuerdo a la luz del entorno. Su valor de resistencia es muy bajo cuando incide luz sobre su superficie y en la oscuridad su resistencia es alta. Como la resistencia varía de acuerdo a la intensidad de luz, la fotocelda se considera como un sensor de luz análogo, por lo tanto, se debe conectar a un pin para lectura análoga de la tarjeta Arduino.
@@ -63,3 +64,5 @@ Serial.begin(9600);
     **digitalWrite** (13, LOW); }     
     delay (10);                  
 }   
+
+### **Maqueta
