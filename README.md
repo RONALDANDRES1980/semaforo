@@ -11,6 +11,8 @@ El mundo de la informática, el control es un factor importante por lo cual pode
 ## [Practica 4 - CRUCE DE SEMAFOROS](Practica4.html)
 En esta práctica podrás encontrar como es el funcionamiento de un cruce de semáforos a partir de una programación en un Arduino Uno, de esta manera simular el prototipo que se debe diseñar para poder llevarlo a la vida real.Realizado por: **Edwar Andres Ochoa Rodríguez**
 
-
 ## [Practica 5 - SEMÁFORO DE PEATONES](Practica5.html)
 Durante esta práctica se podrá evidenciar la programación, circuito y montaje de un semáforo peatonal, el cual emplea un elemento de sonido para este caso el zumbador que permitirá comunicarles a las personas con alguna discapacidad que ya pueden cruzar la calle, de manera segura, esto posible gracias a la programación con Arduino Uno. Realizado por: **Francisco Javier Estepa Fonseca**
+
+## [Practica 5 - SENSOR DE LUZ CON LDR](Practica6.html)
+En la actualidad vivimos en un mundo en el cual la tecnología ha ido avanzando de una manera apresurada, en este caso la automatización de un led, el cual estará programado para que este se encienda o apague según el nivel de luminosidad. Principio que hoy en día lo podemos ver aplicado en el alumbrado público mediante el uso de las fotoceldas, o en la domotizacion de una vivienda. Realizado por: **Ronald Andres Sánchez Valderrama**
